@@ -3,8 +3,8 @@
 
 ```
 As a user
-So I can view all my bookmarks in one place
-I want to show a list of links of all previously saved bookmarks
+So that I can quickly go to web sites I regularly visit
+I would like to see a list of links on the homepage
 
 As a user
 So I don't have to remember a URL
